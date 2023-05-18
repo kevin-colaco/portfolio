@@ -1,11 +1,11 @@
 {
-    "name": "portfolio_v2",
-    "short_name": "portfolio_v2",
+    "name": "Kevin Colaco",
+    "short_name": "Kevin Colaco",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Portfolio of Kevin Colaco.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
